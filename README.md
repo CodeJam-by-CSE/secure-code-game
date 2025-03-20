@@ -1,5 +1,5 @@
 # Secure Code Game
-## Welcome to Secure Code Game - Season 1! 👋
+## Welcome to Secure Code Game - CodeX! 👋
 To get started, please follow the 🛠️ [set up guide](#setup-guide) (if you haven't already).
 Refer to the [Hints](#hints) for helpful information and [Tasks](#time-to-start) to head to the challenge directly.
 
@@ -7,7 +7,7 @@ Refer to the [Hints](#hints) for helpful information and [Tasks](#time-to-start)
 This program validates transactions in systems where orders consist of multiple items and payments. It ensures that the financial records are consistent and highlights any discrepancies.
 
 ## 📝 Storyline
-A few days before the massive shopping event Cyber Monday, an electronics shop without an online presence rushed to create a website to reach a broader customer base. As a result, they spent all their budget on development without investing in security. Do you have what it takes to fix the bug and progress to Level 2?
+In another part of the world, a quaint local bookstore was buzzing with excitement as the annual Book Fair approached. Eager to expand their reach, they hastily launched an online platform, hoping to attract book lovers far and wide. However, in their rush, they overlooked critical security measures, leaving their website vulnerable. Now, with hackers lurking in the shadows, the fate of their online store hangs in the balance. Can you uncover and fix the vulnerabilities before it's too late?
 
 ## ⌨️ What's in the repo?
 For each level, you will find the same file structure:
@@ -37,7 +37,6 @@ The program currently has vulnerabilities related to floating-point arithmetic. 
 ```bash
 git clone https://github.com/kgchinthana/secure-code-game.git
 cd secure-code-game
-pip install -r requirements.txt
 ```
 
 ## Usage
