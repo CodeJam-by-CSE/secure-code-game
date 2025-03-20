@@ -21,8 +21,8 @@ For each level, you will find the same file structure:
     1. Review the code in `src/main.py`. Can you spot the bug(s)?
     2. Try to fix the bug(s). Ensure that unit tests are still passing 🟢.
 - [ ] Make a new **Pull Request** with a description of what you fixed.
-- [ ] Observer the GitHub Workflow logs, and ensure that the code is error free.
-- [ ] Once all workflow pass, **merge** the pull request.
+- [ ] Observe the GitHub Workflow logs, and ensure that the code is error free.
+- [ ] Once all workflows pass, **merge** the pull request.
 
 > [!NOTE]
 > You successfully completed the level when the Github Workflow passes 🟢.
