@@ -17,7 +17,7 @@ class TestOnlineStore(unittest.TestCase):
         tv_item = c.Item(type="product", description="tv", amount=1000.00, quantity=1)
         order_2 = c.Order(id="2", items=[tv_item])
         self.assertEqual(
-            c.validorder(order_2), "Order ID: 2 - Payment imbalance: $-10000.00"
+            c.validorder(order_2), "Order ID: 2 - Payment imbalance: $-1000.00"
         )
 
     # Example 3 - successfully reimburses client for a return so payment imbalance exists
